@@ -22,7 +22,6 @@ print(data)
 # res = requests.post('https://rest-u025.immedia-semi.com/api/v5/account/login', headers=headers, data=data)
 
 # print(json.dumps(res.json(), indent=4))  # 👈 Add this here
-authToken = "0yHSHACwAAS4F_zwiBlDPg"
 # res.json()["auth"]["token"]
 # region = res.json()["region"]["tier"]
 accountID = 468612
